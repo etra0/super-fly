@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Datos de prueba",
+		"dataset_name": "sample.json",
+		"inference_keys": ["walking", "vehicle"],
+		"inference_keys_names": ["Caminando", "Vehiculo"],
+    "inference_filter_name": "Medios de viaje",
+    "inference_colors": [
+      "#e41a1c",
+      "#377eb8",
+      "#4daf4a",
+      "#984ea3"
+    ],
+    "periods": [
+      "morning",
+      "night"
+    ]
+	}
+]
+
