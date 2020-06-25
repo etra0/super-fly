@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="300" src="https://vignette.wikia.nocookie.net/jojo/images/1/14/Super_Fly.png/revision/latest?cb=20160627082522&path-prefix=es">
+</p>
+
 # Super-Fly
 
 Super-Fly [(スーパーフライ, supā furai)](https://jojo.fandom.com/es/wiki/Super_Fly) es una web-app que permite generar una visualización interactiva usando Flowmap
