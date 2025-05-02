@@ -23,7 +23,7 @@
     "react-vega": "^7.1.2",
     "recharts": "^1.6.2",
     "stats.js": "^0.17.0",
-    "vega": "^5.8.0",
+    "vega": "^5.33.0",
     "vega-lite": "^4.10.0"
   },
   "scripts": {
